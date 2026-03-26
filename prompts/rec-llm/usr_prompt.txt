@@ -1,0 +1,43 @@
+---
+
+Example 1
+Query: "I'm looking for a budget-friendly city in Eastern Europe for a weekend in May. I love history, good beer, and a beautiful old town."
+Answer:
+{
+  "query": "I'm looking for a budget-friendly city in Eastern Europe for a weekend in May. I love history, good beer, and a beautiful old town.",
+  "rec_cities": [
+    {"city": "Prague", "country": "Czech Republic", "reason": "Affordable travel, rich history, and excellent local breweries."},
+    {"city": "Krakow", "country": "Poland", "reason": "Beautiful old town, vibrant nightlife, and low cost of living."},
+    {"city": "Budapest", "country": "Hungary", "reason": "Great beer culture, river views, and relaxing thermal baths."},
+    {"city": "Riga", "country": "Latvia", "reason": "Compact and charming old town with medieval architecture."},
+    {"city": "Vilnius", "country": "Lithuania", "reason": "Budget-friendly and known for its Baroque architecture."},
+  ],
+  "confidence_score": 0.88
+}
+
+---
+
+Example 2
+Query: "I'm planning a solo travel trip to explore art and culture in Spain in October. I prefer vibrant cities with rich museums and local artists.",
+Answer:
+{
+  "query": "My partner and I want a romantic coastal getaway in September in Italy or Greece. We love scenic views and great seafood.",
+   "rec_cities": [
+    {"city": "Barcelona", "country": "Spain", "reason": "Home to renowned art institutions like the Picasso Museum and vibrant street art scene."},
+    {"city": "Madrid", "country": "Spain", "reason": "National Museum of Prado and diverse cultural offerings, including street performances."},
+    {"city": "Seville", "country": "Spain", "reason": "Rich Moorish history, flamenco performances, and numerous local galleries."},
+    {"city": "Bilbao", "country": "Spain", "reason": "The Guggenheim Museum and a growing arts community with local artist showcases."},
+    {"city": "Valencia", "country": "Spain", "reason": "Famous for its City of Arts and Sciences and vibrant street art districts."}
+  ],
+  "confidence_score": 0.90
+}
+
+---
+
+Your Task Query: "{user_query}"
+
+Answer:
+{
+  "rec_cities": [...],
+  "confidence_score": <score>
+}

@@ -1,0 +1,98 @@
+Compare the two lists below to the user query.
+**User Query:**
+Query: {query}
+
+**Recommendation Lists:**
+L1: [L1 recommendations]
+L2: [L2 recommendations]
+
+Evaluation Criteria
+- **Relevance**: How well do the cities in the list match the intents of the user query?
+- **Diversity:** Does the list offer a diverse set of destinations — geographically (across countries or regions) and thematically (mix of coastal, cultural, natural, or urban experiences)? Avoid over-concentration of similar or repetitive city types.
+- **Sustainability**: Does the list include destinations that promote environmentally and socially
+responsible travel or show better consideration for avoiding overcrowding?
+- **Popularity Balance**: Does the list provide a good balance between popular and lesser-known
+destinations?
+
+
+Instructions:
+
+- Carefully review both lists in the context of the query.
+- For each list, assign a rating from 1 (poor) to 10 (excellent) for:
+       - Relevance
+       - Diversity
+       - Sustainability
+       - Popularity Balance
+- Provide an **Overall Rating (1--10)** summarizing your evaluation.
+- For each individual and overall rating, also report a **Confidence Score (0--1)**
+representing
+ your confidence in that judgment.
+ - At the end, identify the **Best List** (L1 or L2) and provide a one-sentence
+ justification.
+
+**Output Format:**
+Output should be in JSON format as follows:
+```json
+{
+    "L1": {
+        "Relevance": {
+            "Rating": X,
+            "Explanation": "[Brief explanation of the rating]",
+            "Confidence": C
+        },
+        "Diversity": {
+            "Rating": D,
+            "Explanation": "[Brief explanation of the rating]",
+            "Confidence": C
+        },
+        "Sustainability": {
+            "Rating": Y,
+            "Explanation": "[Brief explanation of the rating]",
+            "Confidence": C
+        },
+        "Popularity Balance": {
+            "Rating": Z,
+            "Explanation": "[Brief explanation of the rating]",
+            "Confidence": C
+        },
+        "Overall": {
+            "Rating": S,
+            "Explanation": "[Brief explanation of the overall rating]",
+            "Confidence": C
+        }
+    },
+    "L2": {
+        "Relevance": {
+            "Rating": X,
+            "Explanation": "[Brief explanation of the rating]",
+            "Confidence": C
+        },
+        "Diversity": {
+            "Rating": D,
+            "Explanation": "[Brief explanation of the rating]",
+            "Confidence": C
+        },
+        "Sustainability": {
+            "Rating": Y,
+            "Explanation": "[Brief explanation of the rating]",
+            "Confidence": C
+        },
+        "Popularity Balance": {
+            "Rating": Z,
+            "Explanation": "[Brief explanation of the rating]",
+            "Confidence": C
+        },
+        "Overall": {
+            "Rating": S,
+            "Explanation": "[Brief explanation of the overall rating]",
+            "Confidence": C
+        }
+    },
+    "Best List": "L1 or L2",
+    "Justification": "[Brief reasoning, 1--2 sentences for why this list is the best]",
+    "Overall Confidence": C
+}
+```
+
+**Note:** The confidence score should reflect how certain the evaluator is about the overall
+assessment of each list, based on the perceived clarity, coherence, and quality of the recommendations.

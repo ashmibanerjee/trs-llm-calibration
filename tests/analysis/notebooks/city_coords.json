@@ -1,0 +1,842 @@
+{
+    "Paris": {
+        "country": "France",
+        "coordinates": [
+            48.8566,
+            2.3522
+        ]
+    },
+    "London": {
+        "country": "United Kingdom",
+        "coordinates": [
+            51.5074,
+            -0.1278
+        ]
+    },
+    "Amsterdam": {
+        "country": "Netherlands",
+        "coordinates": [
+            52.3676,
+            4.9041
+        ]
+    },
+    "Brussels": {
+        "country": "Belgium",
+        "coordinates": [
+            50.8503,
+            4.3517
+        ]
+    },
+    "Luxembourg City": {
+        "country": "Luxembourg",
+        "coordinates": [
+            49.6116,
+            6.1319
+        ]
+    },
+    "Bruges": {
+        "country": "Belgium",
+        "coordinates": [
+            51.2093,
+            3.2247
+        ]
+    },
+    "Ghent": {
+        "country": "Belgium",
+        "coordinates": [
+            51.0543,
+            3.7174
+        ]
+    },
+    "Rotterdam": {
+        "country": "Netherlands",
+        "coordinates": [
+            51.9225,
+            4.4792
+        ]
+    },
+    "Utrecht": {
+        "country": "Netherlands",
+        "coordinates": [
+            52.0907,
+            5.1214
+        ]
+    },
+    "Maastricht": {
+        "country": "Netherlands",
+        "coordinates": [
+            50.8514,
+            5.6909
+        ]
+    },
+    "Nijmegen": {
+        "country": "Netherlands",
+        "coordinates": [
+            51.8426,
+            5.8523
+        ]
+    },
+    "Marseille": {
+        "country": "France",
+        "coordinates": [
+            43.2965,
+            5.3698
+        ]
+    },
+    "Lyon": {
+        "country": "France",
+        "coordinates": [
+            45.764,
+            4.8357
+        ]
+    },
+    "Toulouse": {
+        "country": "France",
+        "coordinates": [
+            43.6047,
+            1.4442
+        ]
+    },
+    "Nice": {
+        "country": "France",
+        "coordinates": [
+            43.7102,
+            7.262
+        ]
+    },
+    "Bordeaux": {
+        "country": "France",
+        "coordinates": [
+            44.8378,
+            -0.5792
+        ]
+    },
+    "Nantes": {
+        "country": "France",
+        "coordinates": [
+            47.2184,
+            -1.5536
+        ]
+    },
+    "Berlin": {
+        "country": "Germany",
+        "coordinates": [
+            52.52,
+            13.405
+        ]
+    },
+    "Munich": {
+        "country": "Germany",
+        "coordinates": [
+            48.1351,
+            11.582
+        ]
+    },
+    "Frankfurt": {
+        "country": "Germany",
+        "coordinates": [
+            50.1109,
+            8.6821
+        ]
+    },
+    "Cologne": {
+        "country": "Germany",
+        "coordinates": [
+            50.9375,
+            6.9603
+        ]
+    },
+    "Leipzig": {
+        "country": "Germany",
+        "coordinates": [
+            51.3397,
+            12.3731
+        ]
+    },
+    "Dresden": {
+        "country": "Germany",
+        "coordinates": [
+            51.0504,
+            13.7373
+        ]
+    },
+    "Freiburg": {
+        "country": "Germany",
+        "coordinates": [
+            47.999,
+            7.8421
+        ]
+    },
+    "Edinburgh": {
+        "country": "United Kingdom",
+        "coordinates": [
+            55.9533,
+            -3.1883
+        ]
+    },
+    "Dublin": {
+        "country": "Ireland",
+        "coordinates": [
+            53.3498,
+            -6.2603
+        ]
+    },
+    "Glasgow": {
+        "country": "United Kingdom",
+        "coordinates": [
+            55.8642,
+            -4.2518
+        ]
+    },
+    "Liverpool": {
+        "country": "United Kingdom",
+        "coordinates": [
+            53.4084,
+            -2.9916
+        ]
+    },
+    "Birmingham": {
+        "country": "United Kingdom",
+        "coordinates": [
+            52.4862,
+            -1.8904
+        ]
+    },
+    "Cork": {
+        "country": "Ireland",
+        "coordinates": [
+            51.8969,
+            -8.4863
+        ]
+    },
+    "Killarney": {
+        "country": "Ireland",
+        "coordinates": [
+            52.0586,
+            -9.5047
+        ]
+    },
+    "Copenhagen": {
+        "country": "Denmark",
+        "coordinates": [
+            55.6761,
+            12.5683
+        ]
+    },
+    "Stockholm": {
+        "country": "Sweden",
+        "coordinates": [
+            59.3293,
+            18.0686
+        ]
+    },
+    "Oslo": {
+        "country": "Norway",
+        "coordinates": [
+            59.9139,
+            10.7522
+        ]
+    },
+    "Helsinki": {
+        "country": "Finland",
+        "coordinates": [
+            60.1699,
+            24.9384
+        ]
+    },
+    "Reykjavik": {
+        "country": "Iceland",
+        "coordinates": [
+            64.1466,
+            -21.9426
+        ]
+    },
+    "Bergen": {
+        "country": "Norway",
+        "coordinates": [
+            60.3913,
+            5.3221
+        ]
+    },
+    "Gothenburg": {
+        "country": "Sweden",
+        "coordinates": [
+            57.7089,
+            11.9746
+        ]
+    },
+    "Trondheim": {
+        "country": "Norway",
+        "coordinates": [
+            63.4305,
+            10.3951
+        ]
+    },
+    "Turku": {
+        "country": "Finland",
+        "coordinates": [
+            60.4518,
+            22.2666
+        ]
+    },
+    "Barcelona": {
+        "country": "Spain",
+        "coordinates": [
+            41.3851,
+            2.1734
+        ]
+    },
+    "Madrid": {
+        "country": "Spain",
+        "coordinates": [
+            40.4168,
+            -3.7038
+        ]
+    },
+    "Valencia": {
+        "country": "Spain",
+        "coordinates": [
+            39.4699,
+            -0.3763
+        ]
+    },
+    "Seville": {
+        "country": "Spain",
+        "coordinates": [
+            37.3891,
+            -5.9845
+        ]
+    },
+    "Lisbon": {
+        "country": "Portugal",
+        "coordinates": [
+            38.7223,
+            -9.1393
+        ]
+    },
+    "Porto": {
+        "country": "Portugal",
+        "coordinates": [
+            41.1579,
+            -8.6291
+        ]
+    },
+    "Bilbao": {
+        "country": "Spain",
+        "coordinates": [
+            43.263,
+            -2.935
+        ]
+    },
+    "San Sebastian": {
+        "country": "Spain",
+        "coordinates": [
+            43.3183,
+            -1.9812
+        ]
+    },
+    "San Sebasti\u00e1n": {
+        "country": "Spain",
+        "coordinates": [
+            43.3183,
+            -1.9812
+        ]
+    },
+    "C\u00f3rdoba": {
+        "country": "Spain",
+        "coordinates": [
+            37.8882,
+            -4.7794
+        ]
+    },
+    "Palma de Mallorca": {
+        "country": "Spain",
+        "coordinates": [
+            39.5696,
+            2.6502
+        ]
+    },
+    "Ibiza": {
+        "country": "Spain",
+        "coordinates": [
+            38.9067,
+            1.4206
+        ]
+    },
+    "Alicante": {
+        "country": "Spain",
+        "coordinates": [
+            38.3452,
+            -0.481
+        ]
+    },
+    "Girona": {
+        "country": "Spain",
+        "coordinates": [
+            41.9794,
+            2.8214
+        ]
+    },
+    "Guimar\u00e3es": {
+        "country": "Portugal",
+        "coordinates": [
+            41.445,
+            -8.2915
+        ]
+    },
+    "Ponta Delgada": {
+        "country": "Portugal",
+        "coordinates": [
+            37.7412,
+            -25.6756
+        ]
+    },
+    "Rome": {
+        "country": "Italy",
+        "coordinates": [
+            41.9028,
+            12.4964
+        ]
+    },
+    "Florence": {
+        "country": "Italy",
+        "coordinates": [
+            43.7696,
+            11.2558
+        ]
+    },
+    "Venice": {
+        "country": "Italy",
+        "coordinates": [
+            45.4408,
+            12.3155
+        ]
+    },
+    "Milan": {
+        "country": "Italy",
+        "coordinates": [
+            45.4642,
+            9.19
+        ]
+    },
+    "Naples": {
+        "country": "Italy",
+        "coordinates": [
+            40.8518,
+            14.2681
+        ]
+    },
+    "Turin": {
+        "country": "Italy",
+        "coordinates": [
+            45.0703,
+            7.6869
+        ]
+    },
+    "Bologna": {
+        "country": "Italy",
+        "coordinates": [
+            44.4949,
+            11.3426
+        ]
+    },
+    "Palermo": {
+        "country": "Italy",
+        "coordinates": [
+            38.1157,
+            13.3615
+        ]
+    },
+    "Genoa": {
+        "country": "Italy",
+        "coordinates": [
+            44.4056,
+            8.9463
+        ]
+    },
+    "Cagliari": {
+        "country": "Italy",
+        "coordinates": [
+            39.2238,
+            9.1217
+        ]
+    },
+    "Catania": {
+        "country": "Italy",
+        "coordinates": [
+            37.5079,
+            15.083
+        ]
+    },
+    "Lecce": {
+        "country": "Italy",
+        "coordinates": [
+            40.3515,
+            18.175
+        ]
+    },
+    "Trieste": {
+        "country": "Italy",
+        "coordinates": [
+            45.6495,
+            13.7768
+        ]
+    },
+    "Lake Como": {
+        "country": "Italy",
+        "coordinates": [
+            45.998,
+            9.2661
+        ]
+    },
+    "Vienna": {
+        "country": "Austria",
+        "coordinates": [
+            48.2082,
+            16.3738
+        ]
+    },
+    "Prague": {
+        "country": "Czech Republic",
+        "coordinates": [
+            50.0755,
+            14.4378
+        ]
+    },
+    "Budapest": {
+        "country": "Hungary",
+        "coordinates": [
+            47.4979,
+            19.0402
+        ]
+    },
+    "Bratislava": {
+        "country": "Slovakia",
+        "coordinates": [
+            48.1486,
+            17.1077
+        ]
+    },
+    "Salzburg": {
+        "country": "Austria",
+        "coordinates": [
+            47.8095,
+            13.055
+        ]
+    },
+    "Graz": {
+        "country": "Austria",
+        "coordinates": [
+            47.0707,
+            15.4395
+        ]
+    },
+    "Innsbruck": {
+        "country": "Austria",
+        "coordinates": [
+            47.2692,
+            11.4041
+        ]
+    },
+    "Brno": {
+        "country": "Czech Republic",
+        "coordinates": [
+            49.1951,
+            16.6068
+        ]
+    },
+    "Zurich": {
+        "country": "Switzerland",
+        "coordinates": [
+            47.3769,
+            8.5417
+        ]
+    },
+    "Bern": {
+        "country": "Switzerland",
+        "coordinates": [
+            46.948,
+            7.4474
+        ]
+    },
+    "Geneva": {
+        "country": "Switzerland",
+        "coordinates": [
+            46.2044,
+            6.1432
+        ]
+    },
+    "Basel": {
+        "country": "Switzerland",
+        "coordinates": [
+            47.5596,
+            7.5886
+        ]
+    },
+    "Lucerne": {
+        "country": "Switzerland",
+        "coordinates": [
+            47.0502,
+            8.3093
+        ]
+    },
+    "Interlaken": {
+        "country": "Switzerland",
+        "coordinates": [
+            46.6863,
+            7.8632
+        ]
+    },
+    "Zermatt": {
+        "country": "Switzerland",
+        "coordinates": [
+            46.0207,
+            7.7491
+        ]
+    },
+    "Warsaw": {
+        "country": "Poland",
+        "coordinates": [
+            52.2297,
+            21.0122
+        ]
+    },
+    "Krakow": {
+        "country": "Poland",
+        "coordinates": [
+            50.0647,
+            19.945
+        ]
+    },
+    "Gdansk": {
+        "country": "Poland",
+        "coordinates": [
+            54.352,
+            18.6466
+        ]
+    },
+    "Pozna\u0144": {
+        "country": "Poland",
+        "coordinates": [
+            52.4064,
+            16.9252
+        ]
+    },
+    "Toru\u0144": {
+        "country": "Poland",
+        "coordinates": [
+            53.0138,
+            18.5984
+        ]
+    },
+    "Bucharest": {
+        "country": "Romania",
+        "coordinates": [
+            44.4268,
+            26.1025
+        ]
+    },
+    "Cluj-Napoca": {
+        "country": "Romania",
+        "coordinates": [
+            46.7712,
+            23.6236
+        ]
+    },
+    "Timi\u0219oara": {
+        "country": "Romania",
+        "coordinates": [
+            45.7489,
+            21.2087
+        ]
+    },
+    "Sofia": {
+        "country": "Bulgaria",
+        "coordinates": [
+            42.6977,
+            23.3219
+        ]
+    },
+    "Plovdiv": {
+        "country": "Bulgaria",
+        "coordinates": [
+            42.1354,
+            24.7453
+        ]
+    },
+    "Belgrade": {
+        "country": "Serbia",
+        "coordinates": [
+            44.7866,
+            20.4489
+        ]
+    },
+    "Ljubljana": {
+        "country": "Slovenia",
+        "coordinates": [
+            46.0569,
+            14.5058
+        ]
+    },
+    "Zagreb": {
+        "country": "Croatia",
+        "coordinates": [
+            45.815,
+            15.9819
+        ]
+    },
+    "Split": {
+        "country": "Croatia",
+        "coordinates": [
+            43.5081,
+            16.4402
+        ]
+    },
+    "Dubrovnik": {
+        "country": "Croatia",
+        "coordinates": [
+            42.6507,
+            18.0944
+        ]
+    },
+    "Plitvice": {
+        "country": "Croatia",
+        "coordinates": [
+            44.8654,
+            15.582
+        ]
+    },
+    "Sarajevo": {
+        "country": "Bosnia and Herzegovina",
+        "coordinates": [
+            43.8563,
+            18.4131
+        ]
+    },
+    "Mostar": {
+        "country": "Bosnia and Herzegovina",
+        "coordinates": [
+            43.3438,
+            17.8078
+        ]
+    },
+    "Skopje": {
+        "country": "North Macedonia",
+        "coordinates": [
+            41.9973,
+            21.428
+        ]
+    },
+    "Tirana": {
+        "country": "Albania",
+        "coordinates": [
+            41.3275,
+            19.8187
+        ]
+    },
+    "Berat": {
+        "country": "Albania",
+        "coordinates": [
+            40.7058,
+            19.9522
+        ]
+    },
+    "Novi Sad": {
+        "country": "Serbia",
+        "coordinates": [
+            45.2671,
+            19.8335
+        ]
+    },
+    "Riga": {
+        "country": "Latvia",
+        "coordinates": [
+            56.9496,
+            24.1052
+        ]
+    },
+    "Vilnius": {
+        "country": "Lithuania",
+        "coordinates": [
+            54.6872,
+            25.2797
+        ]
+    },
+    "Kaunas": {
+        "country": "Lithuania",
+        "coordinates": [
+            54.8985,
+            23.9036
+        ]
+    },
+    "Tallinn": {
+        "country": "Estonia",
+        "coordinates": [
+            59.437,
+            24.7536
+        ]
+    },
+    "Athens": {
+        "country": "Greece",
+        "coordinates": [
+            37.9838,
+            23.7275
+        ]
+    },
+    "Thessaloniki": {
+        "country": "Greece",
+        "coordinates": [
+            40.6401,
+            22.9444
+        ]
+    },
+    "Santorini": {
+        "country": "Greece",
+        "coordinates": [
+            36.3932,
+            25.4615
+        ]
+    },
+    "Malta": {
+        "country": "Malta",
+        "coordinates": [
+            35.8989,
+            14.5146
+        ]
+    },
+    "Valletta": {
+        "country": "Malta",
+        "coordinates": [
+            35.8989,
+            14.5146
+        ]
+    },
+    "Nicosia": {
+        "country": "Cyprus",
+        "coordinates": [
+            35.1856,
+            33.3823
+        ]
+    },
+    "Kyiv": {
+        "country": "Ukraine",
+        "coordinates": [
+            50.4501,
+            30.5234
+        ]
+    },
+    "Lviv": {
+        "country": "Ukraine",
+        "coordinates": [
+            49.8397,
+            24.0297
+        ]
+    },
+    "Tbilisi": {
+        "country": "Georgia",
+        "coordinates": [
+            41.7151,
+            44.8271
+        ]
+    }
+}
